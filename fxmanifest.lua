@@ -12,6 +12,7 @@ client_scripts {
   'CircleZone.lua',
   'ComboZone.lua',
   'creation/client/*.lua'
+  
 }
 
 server_scripts {
